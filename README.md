@@ -1,4 +1,7 @@
 
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am <br>Damian Rene </h1>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DCRepublic&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DCRepublic&layout=compact&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
