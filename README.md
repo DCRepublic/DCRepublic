@@ -1,5 +1,5 @@
 
-[![DCRepublic's GitHub stats](https://github-readme-stats.vercel.app/api?username=DCRepublic)](https://github.com/anuraghazra/github-readme-stats)
+[![DCRepublic's GitHub stats](https://github-readme-stats.vercel.app/api?username=DCRepublic&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
