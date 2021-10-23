@@ -25,7 +25,7 @@ I am a student interested in Machine Learning, NLP and Web Design.
 
 
 <a href="https://github.com/AVS1508"> 
-<img height="200px"  src="https://github-readme-stats.vercel.app/api?username=DCRepublic&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" /> 
+<img height="200px"  width="500" src="https://github-readme-stats.vercel.app/api?username=DCRepublic&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" /> 
 </a>
 </div>
 
