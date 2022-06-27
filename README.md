@@ -1,7 +1,7 @@
 # Welcome to my github! 👋
 
 ## About me :mortar_board:
-I am a student interested in Machine Learning, NLP and Web Design. 
+I am a student interested in Python Automation, Machine Learning, NLP and Web Design. 
 
 ## What I know :computer:
 
